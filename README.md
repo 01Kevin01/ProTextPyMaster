@@ -46,7 +46,7 @@ Uygulamayı kullanmadan önce RSA anahtar çiftini ve bir "ana şifre"yi oluştu
 
 1. Anahtarları oluşturmak için uygulamayı başlatın:
    ```
-   python your_script.py
+   python ProTextPyMaster.py
    ```
 2. İlk başta, size yeni bir anahtar çifti oluşturup oluşturmadığınızı soracaktır. "E" veya "H" seçeneğine basarak anahtarları oluşturun.
 
