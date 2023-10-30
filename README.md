@@ -1,4 +1,7 @@
 # ProTextPyMaster
+![foto_no_exif](https://github.com/01Kevin01/ProTextPyMaster/assets/131346373/e73e19f7-f983-4724-8cd8-62b74f30b29a)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
 Bu kod, kullanıcıya metin şifreleme ve şifrelenmiş metinleri çözme yeteneği sağlayan bir konsol uygulamasını uygular. Aşağıda kodun ana işlevleri açıklanmıştır:
 
 1. **Anahtar Oluşturma ve Yükleme (generate_keys ve load_keys fonksiyonları):**
@@ -82,9 +85,27 @@ Her seçeneği kullanmak için ilgili numarayı girmeniz yeterlidir. Şifrelenmi
 ## Güvenlik Uyarısı
 
 Bu uygulama şifrelenmiş verilere erişim sağlayan bir ana şifre kullanır. Bu ana şifreyi kaybetmek, verilere erişiminizi kaybetmenize neden olabilir. Bu nedenle ana şifreyi güvenli bir şekilde saklamak önemlidir.
+!!UYARI!! EĞİTİM İÇİN YAPILDI
+
+!!WARNING!! MADE FOR EDUCATION
 
 ## İletişim
 
 Sorularınız veya geri bildirimleriniz için [01Kevin0110@proton.me](mailto:01Kevin0110@proton.me) adresine e-posta gönderebilirsiniz.
-
 Umarız bu kullanım talimatları, uygulamanın nasıl kullanılacağı konusunda size yardımcı olur. Daha fazla bilgi veya yardım için iletişim bilgilerinizi paylaşmayı unutmayın.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+🇹🇷"Beni görmek demek mutlaka yüzümü görmek demek değildir. Benim fikirlerimi, benim duygularımı anlıyorsanız ve hissediyorsanız bu yeterlidir."🇹🇷
+-Mustafa Kemal Atatürk
+
+00110000 00110001 01001011 01100101 01110110 01101001 01101110 00110000 00110001 
+
+"Siber güvenlik konusunda bilinçli olun ve saldırılar yerine, güvenliği arttırmak için çalışın."
+#NewDayNewCyberSecurity
+-------------------------------------------------------------------------------------------------------------------------------------------------
+🇹🇷"Seeing me doesn't necessarily mean seeing my face. If you understand and feel my ideas and my feelings, that's enough."
+-Mustafa Kemal Atatürk
+
+00110000 00110001 01001011 01100101 01110110 01101001 01101110 00110000 00110001
+
+"Be cybersecurity conscious and work to improve security rather than attacks."
+#NewDayNewCyberSecurity
